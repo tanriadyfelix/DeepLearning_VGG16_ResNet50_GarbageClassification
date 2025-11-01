@@ -5,3 +5,12 @@ Pillow
 numpy
 plotly
 pandas
+
+# Tambahan library untuk main_model.ipynb ( + tensorflow)
+numpy
+matplotlib
+tqdm
+os
+shutil
+random
+google-colab
