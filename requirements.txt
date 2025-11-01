@@ -3,3 +3,5 @@ tensorflow
 huggingface_hub
 Pillow
 numpy
+plotly
+pandas
