@@ -1,2 +1,5 @@
 [theme]
 base = "light"
+
+[general]
+pythonVersion = "3.10"
