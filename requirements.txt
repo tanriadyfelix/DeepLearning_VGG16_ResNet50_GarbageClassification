@@ -10,7 +10,7 @@ pandas
 numpy
 matplotlib
 tqdm
-os
 shutil
 random
 google-colab
+
